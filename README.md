@@ -56,4 +56,27 @@ Este informe presenta un análisis conciso de los paneles de control, reorganiza
 Asi este proyecto permitira comprender, sobre la conectividad del internet, su demanda, sus carencias y evolucion.de esta manera y a traves de un enfoque detallado y sistemático, desde el EDA la herramienta facilitara la toma de decisiones estrategicos para mantener el crecimiento y subyugar las debilidades. 
 
 
+# TECNOLOGIAS USASDAS
+
+Utilizamos Python con las siguientes librerías:
+
+pandas
+numpy
+matplotlib.pyplot 
+matplotlib.colors 
+seaborn 
+sklearn.cluster KMeans
+sklearn.preprocessing import StandardScaler
+matplotlib.dates as mdates
+matplotlib.dates import DateFormatter
+json
+re
+typing import List
+
+
+
+# AUTOR
+
+- D´Jesús  Blanco
+
 
