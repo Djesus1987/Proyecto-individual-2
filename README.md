@@ -60,18 +60,18 @@ Asi este proyecto permitira comprender, sobre la conectividad del internet, su d
 
 Utilizamos Python con las siguientes librerías:
 
-pandas
-numpy
-matplotlib.pyplot 
-matplotlib.colors 
-seaborn 
-sklearn.cluster KMeans
-sklearn.preprocessing import StandardScaler
-matplotlib.dates as mdates
-matplotlib.dates import DateFormatter
-json
-re
-typing import List
+- pandas
+- numpy
+- matplotlib.pyplot 
+- matplotlib.colors 
+- seaborn 
+- sklearn.cluster KMeans
+- sklearn.preprocessing import StandardScaler
+- matplotlib.dates as mdates
+-matplotlib.dates import DateFormatter
+- json
+- re
+- typing import List
 
 
 
